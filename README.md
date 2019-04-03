@@ -4,7 +4,7 @@ Repositório com o conteúdo da disciplina de TCC I, Curso de ADS - IFPI Campus 
 
 ## Materiais 
 
-[Modelo para Pré-Projeto](https://github.com/jesielviana/PreProjetoTCC-IFPI)
-[Manual de Trabalhos Acadêmicos do IFPI](http://libra.ifpi.edu.br/area-do-estudante/biblioteca/manual-de-trabalhos-academicos)
-[Modelo Latex](https://github.com/g0dkar/abntex-ifpi)
+* [Modelo para Pré-Projeto](https://github.com/jesielviana/PreProjetoTCC-IFPI)
+* [Manual de Trabalhos Acadêmicos do IFPI](http://libra.ifpi.edu.br/area-do-estudante/biblioteca/manual-de-trabalhos-academicos)
+* [Modelo Latex](https://github.com/g0dkar/abntex-ifpi)
 
